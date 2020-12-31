@@ -1,8 +1,8 @@
 ### Hey there, I'm Sinsy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![](https://img.shields.io/badge/Zhihu-hello%20tomcat-blue?style=flat-square)](https://www.zhihu.com/people/since-zh)
-[![](https://img.shields.io/badge/Email-sinsy%401996@gmail.com-red?style=flat-square)](mailto:sinsy1996@gmail.com)
 [![](https://img.shields.io/badge/Homepage-about-brightgreen?style=flat-square)](https://blog.sincehub.cn/about/)
-[![](https://img.shields.io/badge/InfoQ-sinsy-deepgreen?style=flat-square)](https://www.infoq.cn/u/sinsy/publish)
+[![](https://img.shields.io/badge/Email-sinsy%401996@gmail.com-red?style=flat-square)](mailto:sinsy1996@gmail.com)
+[![](https://img.shields.io/badge/InfoQ-sinsy-blue?style=flat-square)](https://www.infoq.cn/u/sinsy/publish)
 
 
 ### My Blog :pencil:
