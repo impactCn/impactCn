@@ -1,5 +1,4 @@
 ### Hey there, I'm Sinsy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![](https://img.shields.io/badge/Zhihu-hello%20tomcat-blue?style=flat-square)](https://www.zhihu.com/people/since-zh)
 [![](https://img.shields.io/badge/Homepage-about-brightgreen?style=flat-square)](https://blog.sincehub.cn/about/)
 [![](https://img.shields.io/badge/Email-sinsy%401996@gmail.com-red?style=flat-square)](mailto:sinsy1996@gmail.com)
 [![](https://img.shields.io/badge/InfoQ-sinsy-blue?style=flat-square)](https://www.infoq.cn/u/sinsy/publish)
@@ -23,5 +22,5 @@
 
  <img src="https://github-readme-stats.vercel.app/api?username=impactCn&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
- ### About 2021
+### About 2021
  In 2021, I made 139 contributions and modified 7,000 lines of code. Check out my GitHub Wrapped and create your own at https://githubtrends.io/wrapped/impactCn/
