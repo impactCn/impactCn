@@ -18,5 +18,8 @@
 ### My GitHub Stats 📈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=impactCn&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impactCn&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
  
- 
+ In 2021, I made 139 contributions and modified 7,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/impactCn
