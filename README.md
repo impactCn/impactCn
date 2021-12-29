@@ -20,8 +20,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png"></code>
-
 
 ### My language Stats 📈
  
