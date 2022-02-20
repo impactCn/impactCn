@@ -1,8 +1,9 @@
 ### Hey there, I'm Sinsy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![](https://img.shields.io/badge/Homepage-about-brightgreen?style=flat-square)](https://blog.sincehub.cn/about/)
-[![](https://img.shields.io/badge/Email-sinsy%401996@gmail.com-red?style=flat-square)](mailto:impactcn@apache.org)
 [![](https://img.shields.io/badge/InfoQ-sinsy-blue?style=flat-square)](https://www.infoq.cn/u/sinsy/publish)
 
+### My email 📧
+If you have any questions, you can contact me by email impactcn@apache.org
 
 ### My Blog :pencil:
 
