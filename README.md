@@ -5,16 +5,6 @@
 ### My email 📧
 If you have any questions, you can contact me by email impactcn@apache.org
 
-### My Blog :pencil:
-
-[![](https://img.shields.io/badge/sinsy-blog-e91e63?style=flat-square&labelColor=1c40a5)](https://blog.sincehub.cn/)
-
-#### Posts 
-
-[redis 基础数据 sets 业务场景分析](https://blog.sincehub.cn/2020/11/28/redis-sets/)
-
-[more...](https://blog.sincehub.cn/)
-
 ### Languages & Tools 💻
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
